@@ -1,0 +1,44 @@
+body{
+  background:#CCCCCC;
+}
+header {
+  background: #000000;
+  color: #FFFFFF;
+}
+div {
+  background: #FFFFFF;
+}
+footer {
+  background: #ffeeaa;
+}
+h1 {
+  font-size: 36px;
+}
+a {
+    color: #CCCCCC;
+    font-size: 12px;
+}
+img {
+    width: 500px;
+}
+h2 {
+  width: 500px;
+  color: #666666;
+}
+h2.text1 {
+  color: #ffaa55;
+  font-size: 50px;
+}
+h2.text2 {
+  color: #ee6666;
+  font-size: 70px;
+}
+h2.text3 {
+  color: #4488dd;
+  font-size: 40px;
+}
+h2.text4 {
+  background: #000;
+  color: #FFF;
+  font-size: 60px;
+}
